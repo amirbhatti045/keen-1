@@ -331,3 +331,198 @@
         margin-top: 1rem;
     }
 }
+
+
+
+.top h1{
+    color: #fff;
+    text-align: center;
+    margin-top: -23px;
+    }
+    .top h1 p a{
+       color: #fff;
+       text-align: center;
+       font-size: 16px;
+       }
+   
+   
+     .TopCategories_category-container__FCWQB img {
+           border-radius: 50%;
+           object-fit: cover;
+           height: 150px;
+           width:150px;
+       }
+   
+       @media (min-width: 992px){
+   .container, .container-lg, .container-md, .container-sm {
+       max-width: 960px;
+       width: 62%;
+   }
+   }
+   
+   #col-6{
+       margin-top: -73px;
+   }
+   .PopularTopics_title__3j0_H{
+       text-align: center;
+       padding: 10px;
+   }
+   
+   .PopularTopics_popular-topics-container__sos5l .PopularTopics_topic-container__8n62a .PopularTopics_topic-image-container__2KVii .PopularTopics_topic-image__vvgvB {
+       height: 100%;
+       width: 100%;
+       object-fit: cover;
+       border-top-right-radius: 4px;
+       border-top-left-radius: 4px;
+   }
+    .PopularTopics_topic-container__8n62a .PopularTopics_topic-title__RvnuL {
+       font-weight: 500;
+       display: block;
+       color: #212121;
+       background-color: #e2f2ee;
+       padding: 16px 16px 24px;
+       text-align: left;
+       border-bottom-right-radius: 4px;
+       border-bottom-left-radius: 4px;
+   }
+   #popular-text a{
+       color: #286851;
+      
+   }
+   #popular-text img{
+       height: 200px;
+   }
+   
+   .AdvisorsCarousel_embla_slide__vxTFl img{
+       .AdvisorPrimaryCard_advisor-primary-card-container__YPNGw {
+           display: inline-block;
+           background-color: #fff;
+           border-radius: 4px;
+           box-shadow: 0 1px 1px rgba(0,0,0,.14), 0 2px 1px rgba(0,0,0,.12), 0 1px 3px rgba(0,0,0,.2);
+           padding: 16px;
+           margin-bottom: 3px;
+           position: relative;
+           width: 100%;
+       }}
+       .AdvisorAvatar_avatar__e4Ga2 {
+           border-radius: 50%;
+           width: 100%;
+           height: auto;
+       }
+   
+       /* started amir bhatti */
+   .full-card{
+       height: 450px;
+       box-sizing: border-box;
+       box-shadow: 8px 16px 16px 8px solid black;
+   }
+   .card-images{
+       width: 150px;
+       /* margin: 20px; */
+       margin-top: 20px;
+       margin-left: 20px;
+   }
+   
+   #rating{
+      
+        color: yellow;
+        overflow: hidden;
+       
+   }
+   #fivedoller{
+       background-color: #ebe2ef;
+       width: 150px;
+       height: 25px;
+       line-height: 1px;
+   }.btn-call{
+       background-color: #286851;
+   }
+   .btn-chat{
+       background-color: #286851;
+   }
+   .three-dots-cards{
+       margin-left: 270px;
+       margin-top: 10px;
+       font-size: 25px;
+       position: absolute;
+   }
+   
+   
+   
+   /* registration */
+   
+   #registration{
+       width: 600px;
+       height: 800px;
+       /* background-color: #286851; */
+       margin: -20px auto;
+       position: relative;
+       overflow: hidden;
+   }
+   .registration-h3{
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 30px ;
+   }
+   .registration-h6{
+       font-family: Arial, Helvetica, sans-serif;
+   }
+   .buttons{
+       position: absolute;
+       top: 0;
+       margin: 230px 0px 0px 340px;
+       /* margin: 10px; */
+   }
+   .gooogle-btn{
+       width: 280px;
+       margin: 5px;
+       border: 1px solid rgba(0,0,0,0.2);
+      
+   }
+   .apple-btn{
+       width: 280px;
+       margin: 5px;
+       border: 1px solid rgba(0,0,0,0.2);
+   }
+   .gooogle-btn:hover{
+       background-color: #989fad;
+   }
+   .apple-btn:hover{
+       background-color: #989fad;
+   }
+   .or-line{
+       position: absolute;
+       top: 0;
+       margin-top: 300px !important;
+   
+   }
+   .form-div{
+       position: absolute;
+       top: 340px;
+       
+   }
+   .btn-form{
+       width: 600px;
+       margin-top: 20px;
+       color: white;
+       background-color: #286851;
+   }
+   .sign-in{
+       width: 300px;
+       height: 50px;
+       margin: -70px auto;
+       padding-left: 50px;    
+   }
+   .footer{
+       width: 250px;
+       height: 150px;
+       /* background-color: #212121; */
+       margin: auto;
+       padding-left: 60px;
+       overflow: hidden;
+   }
+   .footer-tag{
+       font-size: 13px;
+   }
+   .footer-h6{
+       font-size: 10px;
+   }
